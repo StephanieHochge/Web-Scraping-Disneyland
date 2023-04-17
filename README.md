@@ -13,3 +13,4 @@ Below is a brief description of the files used to work on this project.
 - test_scraping.py: This file contains a script to test the main functions of the aforementioned scripts.
 - visualization.ipynb: This notebook contains the code to create visualizations of the collected data.
 - requirements.txt: This file contains the project dependencies. 
+- websites: This file contains the links to the scraped websites. 
